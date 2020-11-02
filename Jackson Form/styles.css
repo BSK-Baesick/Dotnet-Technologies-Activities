@@ -1,0 +1,131 @@
+.yellow-backround {
+	background-color: #FFF500;
+	text-align: left;
+	margin-left: -10px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+.header-style {
+	font-style: normal;
+	font-size: 2rem;
+	text-align: center;
+	padding-bottom: 0px;
+	padding-top: 25px;
+	margin-bottom: -15px;
+	margin-top: -10px;
+}
+.subtitle {
+	text-align: center;
+	padding-top: 0px;
+	font-size: 1rem;
+}
+.comment-box {
+	margin-left: 160px;
+	margin-top: -15px;
+}
+
+.system {
+	padding-bottom: 0px;
+	margin-top: 10px;
+}
+.button {
+	margin-bottom: 32px;
+	margin-top: 30px;
+	margin-right: -475px;
+	text-align: left;
+	margin-left: 475px;
+}
+
+
+
+.hero {
+	margin-left: 20px;
+}
+.textbox-division {
+	margin-top: 12px;
+	margin-left: 94px;
+	padding-right: 50px;
+
+}
+.textbox-division-2 {
+	margin-top: 12px;
+	margin-left: 59px;
+	padding-right: 50px;
+
+}
+.label-division {
+	margin-top: 10px;
+
+
+
+
+
+
+}
+.textbox-division-3 {
+	margin-left: 110px;
+	padding-right: 80px;
+}
+
+
+.address-margin {
+	margin-right: 15px;
+}
+.state-margin {
+	margin-right: -26px;
+
+}
+.zip-margin {
+	padding-right: 45px;
+
+
+}
+.horizontal-rule {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.yellow-backround {
+}
+
+.no-bullet {
+	list-style-type: none;
+	margin-left: -40px;
+}
+.column-2 {
+	padding-left: 132px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: -59px;
+	margin-bottom: 30px;
+}
+.column-2-2 {
+	padding-left: 132px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: -39px;
+	margin-bottom: 30px;
+}
+
+@media (max-width: 1024px){
+.button {
+	margin-left: 350px;
+	margin-right: -350px;
+}
+
+}
+
+@media (max-width: 748px){
+.button {
+	margin-left: 200px;
+	margin-right: -200px;
+}
+
+}
+
+@media (min-width: 0px) and (max-width: 594px){
+.button {
+	margin-left: 150px;
+	margin-right: -150px;
+}
+
+}
