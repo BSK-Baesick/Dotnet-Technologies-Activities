@@ -13,49 +13,69 @@ para di aksayado sa yellow paper. Sa traditional compiler kapag nag run ka ng pr
 
 ***
 
-### WEEK 3 - Coding Practice 1
+### WEEK 3 - Coding Practice 1:
 
 ![](https://imgur.com/zIrp6Iu.png)
 
-### WEEK 3 - Coding Practice 2
+***
+
+### WEEK 3 - Coding Practice 2:
 
 ![](https://imgur.com/B7HF0Tv.png)
 
-### WEEK 3 - Coding Practice 3 (RESUME/CV TEMPLATE)
+***
+
+### WEEK 3 - Coding Practice 3 (RESUME/CV TEMPLATE):
 
 NOTE: I-edit ang code na ito! Nakapaloob sa code comments ang instructions kung ano-ano ang mga i-eedit.
 Okay lang magkapare-pareho ng design sa resume, wag lang kokopyahin yung resume ng ka-classmate :>
 
 ![](https://imgur.com/jRNQ4Su.png)
 
-### WEEK 4 - Code 1 (Registration Form)
+***
+
+### WEEK 4 - Code 1 (Registration Form):
 
 ![](https://imgur.com/3gJ30kt.png)
 
-### WEEK 4 - Activity 7 (Module - Class Schedule)
+***
+
+### WEEK 4 - Activity 7 (Module - Class Schedule):
 
 ![](https://imgur.com/T2nOpAJ.png)
 
-### WEEK 5 - CSS Assignment 1
+***
+
+### WEEK 5 - CSS Assignment 1:
 
 ![](https://imgur.com/2OBNwo.pngv)
 
-### WEEK 5 - CSS Assignment 2
+***
+
+### WEEK 5 - CSS Assignment 2:
 
 ![](https://imgur.com/R1BvNNv.png)
 
-### WEEK 5 - CSS Assignment 3
+***
+
+### WEEK 5 - CSS Assignment 3:
 
 ![](https://imgur.com/NnR9P5p.png)
 
-### WEEK 5 - CSS Assignment 4
+***
+
+### WEEK 5 - CSS Assignment 4:
 
 ![](https://imgur.com/rxiRsIN.png)
 
-### WEEK 5 - CSS Assignment 5 (TINAMAD NA KO MAG-EDIT DITO HAHAHAHA PALITAN NIYO NALANG YUNG CENTER PIC NG KAHIT ANO)
+***
+
+### WEEK 5 - CSS Assignment 5 (TINAMAD NA KO MAG-EDIT DITO HAHAHAHA PALITAN NIYO NALANG YUNG CENTER PIC NG KAHIT ANO):
 
 ![](https://imgur.com/cLmJmHq.png)
 
-### WEEK 5 - Exercise 1
+***
+
+### WEEK 5 - Exercise 1:
 
 ![](https://imgur.com/vAlQgdD.png)
