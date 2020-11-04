@@ -1,0 +1,10 @@
+@charset "utf-8";
+.title {
+	font-size: 1.25rem;
+}
+.date {
+	text-decoration: underline;
+}
+.subtitle {
+	margin-right: 469px;
+}

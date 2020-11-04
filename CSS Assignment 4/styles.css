@@ -1,0 +1,35 @@
+@charset "utf-8";
+.blue-text {
+	color: #42BDD7;
+}
+h1 {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-align: center;
+}
+.subtitle {
+	text-align: center;
+	font-size: 1rem;
+	color: #E987DA;
+}
+body {
+	background-color: #EBEBEB;
+}
+
+
+
+li {
+	font-size: 1.4rem;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-align: left;
+}
+.image1  {
+	text-align: left;
+	border: 1rem double #F3CAD0;
+}
+body ul li {
+	text-align: center;
+	list-style-position: inside;
+}
+.center {
+	text-align: center;
+}

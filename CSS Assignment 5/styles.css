@@ -1,0 +1,81 @@
+@charset "utf-8";
+.main-title {
+	color: #FFFFFF;
+	background-color: #000000;
+	text-align: center;
+	margin-left: -8px;
+	margin-right: -8px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-top: -14px;
+}
+.vertical-line {
+	height: 500px;
+}
+
+.copyright {
+	color: #FFFFFF;
+	background-color: #000000;
+	text-align: center;
+	margin-left: -8px;
+	margin-right: -8px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-top: 5px;
+}
+.repeat-horizontal-rule {
+	background-image: url(https://freesvg.org/img/money_14.png);
+	background-repeat: repeat-x;
+	background-size: 1rem auto;
+	color: #FFFFFF;
+	margin-top: -18px;
+}
+.repeat-horizontal-rule2 {
+	background-image: url(https://freesvg.org/img/money_14.png);
+	background-repeat: repeat-x;
+	background-size: 1rem auto;
+	color: #FFFFFF;
+	margin-top: 8px;
+}
+
+.main-backround {
+	background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20200214/pngtree-seamless-repeat-pattern-with-flowers-and-leaves-scandinavian-childish-drawing-background-image_329827.jpg);
+	background-repeat: repeat;
+	margin-right: -8px;
+	margin-left: -8px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+.main-backround div nav {
+	margin-top: -3px;
+	background-color: #FFFFFF;
+	padding-right: 0px;
+	margin-right: 1035px;
+	padding-top: 500px;
+	padding-bottom: 500px;
+}
+
+.main-backround div article {
+	padding-bottom: 0px;
+	margin-left: 201px;
+	margin-top: -1081px;
+}
+.container footer {
+}
+
+p {
+	background-color: #FFFFFF;
+}
+.article-title {
+	background-color: #FFFFFF;
+}
+.image1 {
+	padding-left: 559px;
+	padding-top: 0px;
+	margin-top: -965px;
+	padding-bottom: 500px;
+	text-align: center;
+	width: 25%;
+
+}

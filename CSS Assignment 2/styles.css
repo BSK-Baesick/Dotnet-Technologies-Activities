@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+#myHeader {
+	color: #FBA503;
+	text-decoration: underline;
+}
+.paragraph1 {
+	border: thin solid #C1D8DE;
+}
+.paragraph2 {
+	border: thick dotted #F3C2C8;
+	text-align: center;
+}
+.paragraph3 {
+	border: 0.75rem dashed #0104F3;
+	text-align: right;
+}
