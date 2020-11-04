@@ -1,5 +1,10 @@
 # Dotnet-Technologies-Activities
 
+Henlo! Nandito lahat ng source code para sa lahat ng activities naten na kinakailangan ng code regarding Dotnet Technologies.
+
+Gamitin niyong reference yung list sa baba para hanapin yung folder name kung san nakalagay yung hinahanap niyong activity. Sa loob ng folder nakalagay 
+lahat ng HTML and CSS scripts na ginamit for that specific activity.
+
 If may tanong kayo, feedback, concern, negative reaction, may kulang na code/activity na di ko na-upload and confusion 
 about sa source code ko PM niyo lang ako para ma-assist ko kayo and matulungan or leave lang kayo ng message sa gc naten.
 
