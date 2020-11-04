@@ -53,7 +53,7 @@ Okay lang magkapare-pareho ng design sa resume, wag lang kokopyahin yung resume 
 
 ### WEEK 5 - CSS Assignment 1:
 
-![](https://imgur.com/2OBNwo.png)
+![](https://imgur.com/2OBNwov.png)
 
 ***
 
