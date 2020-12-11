@@ -30,5 +30,5 @@ Yung ibang code pwede (like the resume) yung iba hindi (e.x: Activities) kase yu
 
 ### Q4: Anong gagawin ko dito?
 
-Punta kayo sa "Code" (IMAGE BELOW) > "Download ZIP" > Extract niyo yung ZIP file using any Unzip application (like WinRar - For PC, 7zip for mobile) > Then gamit yung preferred code editor niyo, hanapin sa file manager and i-open niyo yung bawat scripts (or code) para ma-edit niyo yung mga dapat i-edit like name, section, variables, css file, image, etc.
+Punta kayo sa "Code" (IMAGE BELOW) > "Download ZIP" > Extract niyo yung ZIP file kung san nakalagay yung mga project files using any Unzip application (like WinRar - For PC, 7zip for mobile) > Then gamit yung preferred code editor niyo, hanapin sa file manager and i-open niyo yung bawat scripts (or code) para ma-edit niyo yung mga dapat i-edit like name, section, variables, css file, image, etc.
 ![](https://docs.github.com/assets/images/help/repository/code-button.png)
