@@ -18,7 +18,7 @@ Paki-edit nalang den yung mga variables/code na need palitan ng values (e.g: nam
 
 ### Q1: Paano magreplace ng picture?
 
-Hanapin niyo lang yung image tag (<img></img>) ng picture kung san nakalagay yung image na gusto niyong palitan then hanap lang kayo sa google ng picture na i-rereplace niyo sa current pic na nakalagay sa webpage. After that right-click niyo yung image na nahanap niyo sa Google then click "Copy Image Location". Last, I-paste niyo sa "src" attribute (src="") yung link na kinopy paste niyo sa Google and voila!
+Hanapin niyo lang yung image tag (<img>) ng picture kung san nakalagay yung image na gusto niyong palitan then hanap lang kayo sa google ng picture na i-rereplace niyo sa current pic na nakalagay sa webpage. After that right-click niyo yung image na nahanap niyo sa Google then click "Copy Image Location". Last, I-paste niyo sa "src" attribute (src="") yung link na kinopy paste niyo sa Google and voila!
 
 ### Q2: Ano ang mga papalitan at tatanggalin na variables/code?
 
