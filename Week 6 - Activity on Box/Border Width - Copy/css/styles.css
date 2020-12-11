@@ -1,0 +1,38 @@
+@charset "utf-8";
+/*
+Template Name: Border Width
+Author: INSERT NAME HERE
+Activity Description: Activity on Box - Week 6
+File Name: styles.css
+*/
+
+.one {
+    overflow: hidden;
+    border: 5px solid #0088DD;
+    -webkit-box-shadow: 5px 0px;
+    box-shadow: 5px 10px;
+}
+
+.two {
+    overflow: scroll;
+    border-width: thick;
+    border-style: inset;
+    border-color: #bbbbaa #111111 #ee3e80 #0088DD;
+    -webkit-box-shadow: 5px 10px;
+    box-shadow: 5px 10px;
+}
+
+.three {
+    border-style: outset;
+    border-width: 1px 4px 12px 4px;
+    
+}
+.four {
+    width: 250px;
+    border: 3px dotted #0088DD;
+}
+
+
+h2 {
+	text-shadow: 3px 2px 3px;
+}

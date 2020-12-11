@@ -1,0 +1,14 @@
+@charset "utf-8";
+/*
+Template Name: Overflowing Content
+Author: INSERT NAME HERE
+Activity Description: Activity on Box - Week 6
+File Name: styles.css
+*/
+
+.one {
+	overflow: hidden;
+}
+.two {
+	overflow: scroll;
+}

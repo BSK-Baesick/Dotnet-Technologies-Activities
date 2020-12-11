@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+/*
+Template Name: Border Width and Style
+Author: INSERT NAME HERE
+Activity Description: Activity on Box - Week 6
+File Name: styles.css
+*/
+
+.one {
+    overflow: hidden;
+    border-width: 2px;
+    border-style: solid;
+}
+.three {
+    border-style: dashed;
+    border-width: 1px 4px 12px 4px;
+}
+
+.two {
+    overflow: scroll;
+    border-width: thick;
+    border-style: dotted;
+}
