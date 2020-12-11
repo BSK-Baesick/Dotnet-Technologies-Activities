@@ -1,0 +1,68 @@
+@charset "utf-8";
+/*
+Template Name: Colors
+Author: INSERT NAME HERE
+Activity Description: Activity on Colors and Text - Week 6
+File Name: styles.css
+*/
+
+body {
+    background-color: silver;
+    color: white;
+    padding-top: 20px;
+    font-family: Arial, Verdana, sans-serif;
+}
+h1 {
+    background-color: hsla(0,0%,100%,0.50);
+    padding: inherit;
+    color: #64645A;
+}
+p {
+	padding: 5px;
+	margin: 0px;
+}
+p.zero {
+    background-color: rgba(238,62,128,1.00);
+}
+p.one {
+    background-color: rgba(244,90,139,1.00);
+}
+p.two {
+    background-color: rgba(243,106,152,1.00);
+}
+p.three {
+    background-color: rgba(244,124,166,1.00);
+}
+p.four {
+    background-color: rgba(245,140,178,1.00);
+}
+p.five {
+    background-color: rgba(246,159,192,1.00);
+}
+p.six {
+    background-color: rgba(245,176,204,1.00);
+}
+p.seven {
+    background-color: rgba(0,187,136,1.00);
+}
+p.eight {
+    background-color: rgba(140,202,242,1.00);
+}
+p.nine {
+    background-color: rgba(114,193,240,1.00);
+}
+p.ten {
+    background-color: rgba(84,182,237,1.00);
+}
+p.eleven {
+    background-color: rgba(48,170,233,1.00);
+}
+p.twelve {
+    background-color: rgba(0,160,230,1.00);
+}
+p.thirteen {
+    background-color: rgba(0,149,226,1.00);
+}
+p.fourteen {
+    background-color: rgba(0,136,221,1.00);
+}
