@@ -1,0 +1,96 @@
+<!doctype html>
+<html>
+<head>
+	
+	<!-- Basic Page Needs -->
+	<title>Selection</title>
+	
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+	<meta name="author" content="Matthew Johannes C. Balubar">
+	<meta name="activityName" content="005 - Selection">
+	<meta name="activityWeek" content="Week 7-10">
+	
+</head>
+
+<body>
+	<!-- Content HERE -->
+	<h1>1.) What type of operation is used to compare two values?</h1>
+	
+	<p>ANSWER: ==</p>
+	
+	<h1>2.) Write the code that will tell a user “hello” if choice = 1 and “goodbye” if choice = 2.</h1>
+	
+	<p>
+		<code>
+			var selection = prompt("Select from numbers 1 to 2: ");
+		</code>
+	</p>
+	
+	<p>
+		<code>
+			if (selection == 1)
+			{
+				alert("Hello!");
+			}
+		</code>
+	</p>
+	
+	<p>
+		<code>
+			else if (selection == 2)
+			{
+				alert("Goodbye!");
+			}
+		</code>
+	</p>	
+	
+	<h1>3.) When do you use a nested if/else loop?</h1>
+	
+	<p>When there is multiple conditions that needs to be met.</p>	
+	
+	<h1>4.) Determine the possible values of a that will output “valid” in each case:</h1>
+	
+	<p>ANSWER: Written in the script tag of this source code</p>
+	
+</body>
+	
+<script>
+	
+	// 4.) Determine the possible values of a that will output “valid” in each case:
+	
+	// invalid statement
+	if ((a>0) && (a<10)) {
+		document.write("valid");
+	}
+	
+	// either true if the user input is greater than 0/less than 10 or false if they input any numbers beyond the scope
+	if ((a>0) || (a<10)) {
+		document.write("valid");
+	}
+	
+	// either true if the user input is NOT equals to 0/less than 10 or false if they input any numbers beyond the scope
+	if (!((a==0) || (a<10)) {
+		document.write("valid");
+	}
+	
+	// invalid statement
+	if ((a<0) && (a>10)) {
+		document.write("valid");
+	}
+	
+	// either true if the user input is less than 0/greater than 10 or false if they input any numbers beyond the scope
+	if ((a<0) || (a>10)) {
+		document.write("valid");
+	}
+	
+	// either true if the user input is NOT greater to 0/less than 10 or false if they input any numbers beyond the scope
+	if (!((a>0) && (a<10)) {
+		document.write("valid");
+	}
+	
+</script>
+	
+	
+</html>
